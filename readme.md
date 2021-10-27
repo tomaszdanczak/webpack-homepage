@@ -1,4 +1,6 @@
-Strona jest do obejrzenia [tutaj](https://tomaszdanczak.github.io/webpack-homepage/) 🚀.   
+# 🎉 Jest to moja pierwsza strona, którą zbudowałem i umieściłem w internecie (🗓️ 14 lipca 2020). 
+## Strona na pewno lepiej wygląda od strony kodu niż od strony wizualnej😅
+## Efekt można zobaczyć [tutaj](https://tomaszdanczak.github.io/webpack-homepage/) 🚀   
  👉 Strona jest krótkim info o mnie.   
  👉 Umieściłem na niej część z moich notatek z kursu [WTF Co Ten Frontend](https://cotenfrontend.pl).   
  👉 Wszystkie moje notatki znajdują się w tym pliku readme.md  
